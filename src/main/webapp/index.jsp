@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello sexy!</h2>
+<h2>Hello index!</h2>
 </body>
 </html>
